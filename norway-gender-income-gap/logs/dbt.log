@@ -1,0 +1,6 @@
+[0m18:50:01.591146 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1112858d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111279d50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x11133e550>]}
+
+
+============================== 18:50:01.595138 | b470832e-5ec4-4fb7-98e4-7ed923574bea ==============================
+[0m18:50:01.595138 [info ] [MainThread]: Running with dbt=1.12.6
+[0m18:50:01.595465 [debug] [MainThread]: running dbt with arguments {'empty': 'None', 'introspect': 'True', 'profiles_dir': '/Users/apple/.dbt', 'no_print': 'None', 'use_experimental_parser': 'False', 'printer_width': '80', 'indirect_selection': 'eager', 'version_check': 'True', 'cache_selected_only': 'False', 'target_path': 'None', 'invocation_command': 'dbt init', 'static_parser': 'True', 'log_path': 'logs', 'partial_parse': 'True', 'maximum_seed_size_mib': '1', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'log_format': 'default', 'log_cache_events': 'False', 'debug': 'False', 'hints_enabled': 'True', 'fail_fast': 'False', 'write_json': 'True', 'quiet': 'False', 'use_colors': 'True', 'warn_error': 'None', 'send_anonymous_usage_stats': 'True'}

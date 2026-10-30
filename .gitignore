@@ -1,0 +1,10 @@
+# 忽略虚拟环境
+dbt-env/
+venv/
+.venv/
+env/
+
+# 忽略数据与密码
+raw/
+*.parquet
+.env
