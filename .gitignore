@@ -6,5 +6,4 @@ env/
 
 # 忽略数据与密码
 raw/
-*.parquet
 .env
